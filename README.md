@@ -1,6 +1,6 @@
 # Język C++ Szkoła programowania, Wydanie VI (Stephen Prata)
 
-https://helion.pl/ksiazki/jezyk-c-szkola-programowania-wydanie-vi-stephen-prata,cppri6.htm
+https://helion.pl/ksiazki/jezyk-c-szkola-programowania-wydanie-vi-stephen-prata,cppr6v.htm#format/d
 
 ![alt text](https://static01.helion.com.pl/global/okladki/326x466/ec2af43fe462b011952399f71353d1e5,cppri6.jpg)
 
